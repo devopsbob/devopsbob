@@ -8,9 +8,8 @@
 Here are some ideas to get you started:
 -->
 
-For the curious, these repos are my "junk drawer"! The "toolbox" lives strictly offline.
-
-- 🔭 I’m currently working on rpi-image-gen repository usage to recreate my local home network raspberry pi 5 2712 kernel.
+- 🔭 I’m currently working on mijug.net to try and generate some earnings via speaking seminars and ad revenue.
+- 🔭 I’m paused working on rpi-image-gen repository usage to recreate my local home network raspberry pi 5 2712 kernel.
 - 🌱 I’m currently learning about opportunities to be employed in the AI-era after 30 years in the industry.
 - 👯 I’m looking to collaborate on securing a job.
 - 🤔 I’m looking for help with rpi-image-gen layers configuration.
