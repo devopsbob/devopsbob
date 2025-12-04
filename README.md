@@ -18,6 +18,8 @@
 
 **📝 Late Summer:** Crafted a custom **WordPress theme** from scratch and wrestled with Gutenberg blocks. Currently mastering WordPress patterns because themes are more than just pretty faces! 🎨
 
+** Early Winter** Rebuilding Pi5 with Debian 13/Trixie and rpi-image-gen v2
+
 **🤝 Throughout:** Reconnected with amazing colleagues and navigated the *"interesting times"* of today's business landscape. Networking is everything! 🌐
 
 ---
@@ -26,8 +28,8 @@
 
 ```javascript
 const devOpsBob = {
-  currentFocus: "mijug.net monetization via seminars & ad revenue �",
-  onHold: "rpi-image-gen for my Raspberry Pi 5 home lab �",
+  currentFocus: "rpi-image-gen for my Raspberry Pi 5 home lab �",
+  onHold: "mijug.net monetization via seminars & ad revenue �",
   learning: "AI-era career opportunities after 3 decades 🤖",
   seeking: "Amazing collaboration opportunities �",
   needsHelp: "rpi-image-gen layer configurations 🛠️"
