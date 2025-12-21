@@ -18,7 +18,7 @@
 
 **📝 Late Summer:** Crafted a custom **WordPress theme** from scratch and wrestled with Gutenberg blocks. Helped my older sister with her new Florida busineess: [Thrive Alternative Medicine](https://thrivealternativemedicine.com/) 🎨
 
-** Early Winter** Rebuilt Pi5 with Debian 13/Trixie and rpi-image-gen v2 to re-implement Home DNS caching (a multi-year experiment to reduce bandwidth usage and improve privacy).
+** Early Winter** Rebuilt Pi5 with Debian 13/Trixie and [rpi-image-gen](https://github.com/raspberrypi/rpi-image-gen) v2 to re-implement Home DNS caching (a multi-year experiment to reduce bandwidth usage and improve privacy).
 
 ** Winter Solstice** Make Public Ollama-embedding repository showing knowledge gain in the AI spaces. Start template repository creation for Home DNS example.
 
