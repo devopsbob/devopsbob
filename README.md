@@ -16,9 +16,11 @@
 
 **🦀 Mid Summer:** Dove deep into the **Rust ecosystem** building a RAG (Retrieval Augmented Generation) server! 🤖 Explored local AI models and discovered how legacy data can teach new tricks. *Rust + AI = Mind blown* 🤯
 
-**📝 Late Summer:** Crafted a custom **WordPress theme** from scratch and wrestled with Gutenberg blocks. Currently mastering WordPress patterns because themes are more than just pretty faces! 🎨
+**📝 Late Summer:** Crafted a custom **WordPress theme** from scratch and wrestled with Gutenberg blocks. Helped my older sister with her new Florida busineess: [Thrive Alternative Medicine](https://thrivealternativemedicine.com/) 🎨
 
-** Early Winter** Rebuilding Pi5 with Debian 13/Trixie and rpi-image-gen v2
+** Early Winter** Rebuilt Pi5 with Debian 13/Trixie and rpi-image-gen v2 to re-implement Home DNS caching (a multi-year experiment to reduce bandwidth usage and improve privacy).
+
+** Winter Solstice** Make Public Ollama-embedding repository showing knowledge gain in the AI spaces. Start template repository creation for Home DNS example.
 
 **🤝 Throughout:** Reconnected with amazing colleagues and navigated the *"interesting times"* of today's business landscape. Networking is everything! 🌐
 
@@ -28,11 +30,11 @@
 
 ```javascript
 const devOpsBob = {
-  currentFocus: "rpi-image-gen for my Raspberry Pi 5 home lab �",
+  currentFocus: "Repository templating for a Home DNS server �",
   onHold: "mijug.net monetization via seminars & ad revenue �",
-  learning: "AI-era career opportunities after 3 decades 🤖",
+  learning: "AI-era coding efficiencies and pitfalls 🤖",
   seeking: "Amazing collaboration opportunities �",
-  needsHelp: "rpi-image-gen layer configurations 🛠️"
+  needsHelp: "Ways and Means...sponsors or employment 🛠️"
 }
 ```
 
