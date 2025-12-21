@@ -12,7 +12,7 @@
 
 ### 🌟 Summer of Innovation & Learning
 
-**🏗️ Early Summer:** Launched my entrepreneurial journey with a sleek **Jekyll website** at [mijug.net](http://www.mijug.net) - because who doesn't love static site generators and independent consulting dreams? 💼✨
+**🏗️ Early Summer:** Launched my entrepreneurial journey with a sleek **Jekyll website** at [My Information Just Under Glass - www.mijug.net](http://www.mijug.net) - because who doesn't love static site generators and independent consulting dreams? 💼✨
 
 **🦀 Mid Summer:** Dove deep into the **Rust ecosystem** building a RAG (Retrieval Augmented Generation) server! 🤖 Explored local AI models and discovered how legacy data can teach new tricks. *Rust + AI = Mind blown* 🤯
 
