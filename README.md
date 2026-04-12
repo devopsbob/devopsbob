@@ -2,27 +2,64 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=30+Years+in+Tech;Building+the+AI-Era+Future;From+Dial-up+to+Docker;Always+Learning%2C+Always+Growing!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=30+Years+in+Tech;2026%3A+Sun%2C+Strategy%2C+Momentum;From+Dial-up+to+AI+Ops;Always+Building%2C+Always+Learning)
+
+## My 2026 Digital Adventure
+### Fast starts, sharp pivots, real-world progress.
 
 </div>
 
 ---
 
-## 🚀 My 2025 Digital Adventure 
+## Jan/Feb: Panama City Beach Recharge
 
-### 🌟 Summer of Innovation & Learning
+Opened the year in Panama City Beach with salt air, clear focus, and notebook pages full of fresh plans. It was equal parts reset and runway.
 
-**🏗️ Early Summer:** Launched my entrepreneurial journey with a sleek **Jekyll website** at [My Information Just Under Glass - www.mijug.net](http://www.mijug.net) - because who doesn't love static site generators and independent consulting dreams? 💼✨
+- Travel adventure with purpose
+- Big-picture thinking away from the noise
+- Energy reset before major project push
 
-**🦀 Mid Summer:** Dove deep into the **Rust ecosystem** building a RAG (Retrieval Augmented Generation) server! 🤖 Explored local AI models and discovered how legacy data can teach new tricks. *Rust + AI = Mind blown* 🤯
+---
 
-**📝 Late Summer:** Crafted a custom **WordPress theme** from scratch and wrestled with Gutenberg blocks. Helped my older sister with her new Florida busineess: [Thrive Alternative Medicine](https://thrivealternativemedicine.com/) 🎨
+## Late February: Project Engagement Ignition
 
-** Early Winter** Rebuilt Pi5 with Debian 13/Trixie and [rpi-image-gen](https://github.com/raspberrypi/rpi-image-gen) v2 to re-implement Home DNS caching (a multi-year experiment to reduce bandwidth usage and improve privacy).
+Late February switched from planning to execution mode.
 
-** Winter Solstice** Make Public Ollama-embedding repository showing knowledge gain in the AI spaces. Start template repository creation for Home DNS example.
+- New engagement, fast alignment, quick momentum
+- Strong collaboration rhythm from day one
+- Practical wins that set the tone early
 
-**🤝 Throughout:** Reconnected with amazing colleagues and navigated the *"interesting times"* of today's business landscape. Networking is everything! 🌐
+---
+
+## March: AAD to MEID Migration Direction
+
+March was all about defining migration direction from Azure Active Directory to Microsoft Entra ID.
+
+- Clarified naming and identity transition impacts
+- Mapped policy and access changes with intent
+- Focused on stability, not just surface-level renaming
+
+This was strategy work, not checkbox work.
+
+---
+
+## Higher-Level Framework Focus
+
+2026 is also the year of setting project frameworks at a higher altitude.
+
+- Better framing before build starts
+- Repeatable patterns over heroics
+- Consistency that scales across teams
+
+Translation: fewer surprises, cleaner delivery, better outcomes.
+
+---
+
+## Reconnecting Detroit Roots
+
+Reconnected with a few Detroit roots this year, and that has been a serious boost. Old-school wisdom plus current-era tech perspective is a strong combo.
+
+It brought grit, clarity, and a little Motor City edge back into the workflow.
 
 ---
 
@@ -30,12 +67,13 @@
 
 ```javascript
 const devOpsBob = {
-  currentFocus: "Repository templating for a Home DNS server �",
-  onHold: "mijug.net monetization via seminars & ad revenue �",
-  learning: "AI-era coding efficiencies and pitfalls 🤖",
-  seeking: "Amazing collaboration opportunities �",
-  needsHelp: "Ways and Means...sponsors or employment 🛠️"
-}
+  // A wink to "Whose Line Is It Anyway?" - but this time, memory points matter.
+  currentFocus: "Who's Memory (for AI) Is It Anyway?",
+  onHold: "Home DNS refresher after RPI-Image-Gen updates",
+  learning: "Boundary management for securing data in an everyone's-got-an-AI-bot environment",
+  seeking: "Engaging collaborations to coding challenges",
+  needsHelp: "Work pipeline development for humans in the tech business",
+};
 ```
 
 ## 💡 Let's Connect & Create!
@@ -44,7 +82,7 @@ const devOpsBob = {
 - ⚛️ ReactJS wizardry
 - 🟢 NodeJS adventures  
 - ☁️ Azure cloud deployments
-- � DevOps best practices
+- ⚙️ DevOps best practices
 - 🏠 Home lab setups
 
 **📬 Reach out:** devopsbob | **🏷️ Pronouns:** Mr./He/Him
@@ -63,7 +101,7 @@ const devOpsBob = {
 
 <div align="center">
 
-### 🌟 "From BBS to AI - Embracing Every Era of Innovation" 🌟
+### "From BBS to AI: still curious, still shipping."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bobkranson)
 [![Website](https://img.shields.io/badge/Website-mijug.net-green?style=for-the-badge&logo=jekyll)](https://www.mijug.net)
