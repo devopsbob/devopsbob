@@ -4,34 +4,36 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=30+Years+in+Tech;2026%3A+Sun%2C+Strategy%2C+Momentum;From+Dial-up+to+AI+Ops;Always+Building%2C+Always+Learning)
 
-## My 2026 Digital Adventure
-### Fast starts, sharp pivots, real-world progress.
+## 2026 | Kranson Enterprises: Practical Tech, Real-World Progress
+### MIJUG is where I share technology support, development, and community knowledge.
 
 </div>
 
 ---
 
-## Jan/Feb: Panama City Beach Recharge
+### Current Professional Engagement: Manufacturing Information Systems
 
-Opened the year in Panama City Beach with salt air, clear focus, and notebook pages full of fresh plans. It was equal parts reset and runway.
-
-- Travel adventure with purpose
-- Big-picture thinking away from the noise
-- Energy reset before major project push
+I'm currently engaged in manufacturing information systems development using Uniface.
 
 ---
 
-## Late February: Project Engagement Ignition
+### Ongoing: MIJUG & Community
 
-Late February switched from planning to execution mode.
+2026 is also a year of setting project frameworks at a higher altitude.
 
-- New engagement, fast alignment, quick momentum
-- Strong collaboration rhythm from day one
-- Practical wins that set the tone early
+- Better framing before build starts
+- Repeatable patterns over heroics
+- Consistency that scales across teams
+
+Translation: fewer surprises, cleaner delivery, better outcomes.
+
+Reconnected with a few Detroit roots this year, and that has been a serious boost. Old-school wisdom plus current-era tech perspective is a strong combo.
+
+It brought grit, clarity, and a little Motor City edge back into the workflow.
 
 ---
 
-## March: AAD to MEID Migration Direction
+### March: AAD to MEID Migration Direction
 
 March was all about defining migration direction from Azure Active Directory to Microsoft Entra ID.
 
@@ -43,23 +45,23 @@ This was strategy work, not checkbox work.
 
 ---
 
-## Higher-Level Framework Focus
+### Late February: Project Engagement Ignition
 
-2026 is also the year of setting project frameworks at a higher altitude.
+Late February switched from planning to execution mode.
 
-- Better framing before build starts
-- Repeatable patterns over heroics
-- Consistency that scales across teams
-
-Translation: fewer surprises, cleaner delivery, better outcomes.
+- New engagement, fast alignment, quick momentum
+- Strong collaboration rhythm from day one
+- Practical wins that set the tone early
 
 ---
 
-## Reconnecting Detroit Roots
+### Jan/Feb: Panama City Beach Recharge
 
-Reconnected with a few Detroit roots this year, and that has been a serious boost. Old-school wisdom plus current-era tech perspective is a strong combo.
+Opened the year in Panama City Beach with salt air, clear focus, and notebook pages full of fresh plans. It was equal parts reset and runway.
 
-It brought grit, clarity, and a little Motor City edge back into the workflow.
+- Travel adventure with purpose
+- Big-picture thinking away from the noise
+- Energy reset before major project push
 
 ---
 
@@ -78,8 +80,9 @@ const devOpsBob = {
 
 ## 💡 Let's Connect & Create!
 
-**�️ Ask me about:**
-- ⚛️ ReactJS wizardry
+**💬 Ask me about:**
+- 🟦 TypeScript's evolution and modern development
+- 🤖 Uniface and AI pipeline integrations
 - 🟢 NodeJS adventures  
 - ☁️ Azure cloud deployments
 - ⚙️ DevOps best practices
@@ -95,7 +98,9 @@ const devOpsBob = {
 
 🎓 **Eternal Student:** 30 years in tech and still excited about every new framework, language, and paradigm shift
 
-🏡 **Home Lab Enthusiast:** Because why rent cloud when you can build your own datacenter in the garage?
+🏫 **University Course Creator & Instructor:** Created and taught a university course on designing intelligent information systems, connecting software design concepts with practical development.
+
+🏡 **Home Lab Enthusiast:** Because why rent cloud when you can build your own datacenter in the garage? After years in tech, I know how much can change from one generation of chips and processors to the next.
 
 ---
 
